@@ -42,6 +42,8 @@ president_school_1 = School.president_school("Al Xorazmiy", "Xorazm", 1)
 president_school_2 = School.president_school("Beruniy", "Toshkent", 2)
 president_school_3 = School.president_school("Farobiy", "Namangan", 3)
 president_school_4 = School.president_school("Amir Temur", "Qarshi", 4)
+president_school_5 = School.president_school("Alisher Navoiy", "Navoiy", 5)
+
 # print(president_school_1)
 # print(president_school_2)
 
