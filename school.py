@@ -46,7 +46,7 @@ president_school_5 = School.president_school("Alisher Navoiy", "Navoiy", 5)
 
 # print(president_school_1)
 # print(president_school_2)
-
+# print("Nimadur")
 for i in school.get_schools(3):
     print(i)
 
