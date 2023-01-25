@@ -20,3 +20,5 @@ class Solution(object):
         return self.is_palindrome(s[:len(s)-1])
     def is_palindrome(self, s):
         return s==s[::-1]
+
+print("Project Changed")
