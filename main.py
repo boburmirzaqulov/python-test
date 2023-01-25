@@ -4,6 +4,10 @@ class Solution(object):
         :type s: str
         :rtype: bool
         """
+
+        print("Hello world")
+
+        
         if self.is_palindrome(s):
             return True
 
