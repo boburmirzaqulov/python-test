@@ -10,4 +10,8 @@ Ismi: {self.name}
 Maosh: {self.maosh}
 Kasbi: {self.kasb}        
         """
+
+print("salom bolalar")
+
+
         
